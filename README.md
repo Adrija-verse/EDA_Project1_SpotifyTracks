@@ -47,7 +47,7 @@ Correlation exploration between features and popularity
 
 Deliverables: Comprehensive descriptive statistics report for music features
 
-#b🔍 Phase 3: Advanced Pattern Recognition
+# 🔍 Phase 3: Advanced Pattern Recognition
 Objective: Deep-dive analysis of musical patterns and popularity drivers
 
 Language-specific performance analysis
@@ -136,9 +136,14 @@ seaborn==0.12.2        # Statistical data visualization
 scipy==1.10.1          # Scientific computing and statistics
 
 # Analysis Tools
-jupyter==1.0.0         # Interactive development environment
+jupyter==1.0.0        
+
+# Interactive development environment
+
 Project Structure
+
 text
+
 spotify-outlier-analysis/
 │
 ├── spotify_analysis.ipynb          # Main analysis notebook
@@ -256,8 +261,11 @@ cd spotify-outlier-analysis
 jupyter notebook spotify_analysis.ipynb
 
 # Run all cells sequentially for complete analysis
-📋 Analysis Execution Guide
+
+# 📋 Analysis Execution Guide
+
 Step-by-Step Execution
+
 Data Loading: Execute Phase 1 cells for data import and cleaning
 
 Exploratory Analysis: Run Phase 2 cells for descriptive statistics
