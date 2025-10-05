@@ -3,7 +3,8 @@
 # 🎵 Spotify Tracks Outlier Analysis - README
 
 # 🎯 Project Overview
-Challenge Objectives
+ Objectives
+ 
 Primary Goal: Perform comprehensive Exploratory Data Analysis on Spotify music dataset
 
 Business Focus: Identify patterns in track popularity and optimize music production strategies
